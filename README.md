@@ -1,0 +1,1 @@
+This repository contains laboratory works for the course "Mathematical Methods of Operations Research".
